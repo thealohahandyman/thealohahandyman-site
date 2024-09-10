@@ -85,7 +85,6 @@ main {
 
 .services-btn:hover {
     background-color: #e3d4b7; /* Slightly darker shade for hover */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Slightly deeper shadow on hover */
 }
 
 
